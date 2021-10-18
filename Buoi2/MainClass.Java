@@ -13,15 +13,12 @@ class Cat{
 	}
 	public void description() {
 		System.out.println("My cat has " + legs  + " legs and " + eyes + " eyes" );
-	}
-	
-	
+	}	
 }
 
 //    another class dog
 class Dog{
 	String breed, name;
-	
 //	Creating another method
 	
 	public void jump() {
@@ -35,7 +32,6 @@ class Dog{
 
 
 public class MainClass {
-
 	public static void main(String[] args) {
 //		 creating method 
 //		
@@ -80,5 +76,4 @@ public class MainClass {
 		
 		
 	}
-
 }
